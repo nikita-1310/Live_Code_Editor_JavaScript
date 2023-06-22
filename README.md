@@ -26,7 +26,7 @@
 
 ![This is an Image](/Images/img2.jpeg)
 
-<h3>3. When we write css code then css will apply in html code/h3>
+<h3>3. When we write css code then css will apply in html code</h3>
 
 ![This is an Image](/Images/img3.jpeg)
 

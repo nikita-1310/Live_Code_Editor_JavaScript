@@ -18,12 +18,22 @@
 
 <h1 align="center">UI (User Interface) of Web Application</h1>
 
+<h3>1. Simple User Interface of application</h3>
+
 ![This is an Image](/Images/img1.jpeg)
+
+<h3>2. When we write text in HTML then the result will show in output</h3>
 
 ![This is an Image](/Images/img2.jpeg)
 
+<h3>3. When we write css code then css will apply in html code/h3>
+
 ![This is an Image](/Images/img3.jpeg)
 
+<h3>4. We can use Javascript code to run the JavaScript functionality</h3>
+
 ![This is an Image](/Images/img4.jpeg)
+
+<h3>5. When we click on the button then background color of button will be changed using JavaScript Functionality</h3>
 
 ![This is an Image](/Images/img5.jpeg)

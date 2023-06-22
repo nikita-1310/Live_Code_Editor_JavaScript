@@ -18,12 +18,12 @@
 
 <h1 align="center">UI (User Interface) of Web Application</h1>
 
-![This is an Image](/Images/i1.jpeg)
+![This is an Image](/Images/img1.jpeg)
 
-![This is an Image](/Images/i2.jpeg)
+![This is an Image](/Images/img2.jpeg)
 
-![This is an Image](/Images/i3.jpeg)
+![This is an Image](/Images/img3.jpeg)
 
-![This is an Image](/Images/i4.jpeg)
+![This is an Image](/Images/img4.jpeg)
 
-![This is an Image](/Images/i5.jpeg)
+![This is an Image](/Images/img5.jpeg)

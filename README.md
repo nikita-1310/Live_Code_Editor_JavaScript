@@ -39,4 +39,4 @@
 ![This is an Image](/Images/img5.jpeg)
 
 
-To view the project on live server Please click on this link 👉 <a href="https://livecodeeditor-nikita.netlify.app/" > Click Here </a>
+To view the project on live server Please click on this link 👉 <a href="https://livecodeeditor-nikita.netlify.app/" target=”_blank”> Click Here </a>
